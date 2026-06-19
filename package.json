@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest-1",
+  "version": "1.0.0",
+  "description": "verifying my git set-up\r  second\r  git sequence flow\r  1. add (plus button)\r  2. commit with message\r  3.push/sync",
+  "homepage": "https://github.com/24wh1a6620-ai/AutoSuggest#readme",
+  "bugs": {
+    "url": "https://github.com/24wh1a6620-ai/AutoSuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24wh1a6620-ai/AutoSuggest.git"
+  },
+  "license": "ISC",
+  "author": "Glory",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
