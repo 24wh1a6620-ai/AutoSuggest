@@ -6,7 +6,7 @@
 .pill{
     position: fixed;
     top:10px;
-    left: 10px;
+    right: 10px;
     
 }
 .main-content{
@@ -16,7 +16,7 @@
     position: relative;
     /* top 20,bot 20,left 20 , right 20 */
     left:30px;
-    
+
 }
 
 
